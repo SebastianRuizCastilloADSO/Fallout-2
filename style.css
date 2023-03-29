@@ -9,7 +9,7 @@
 
 .text1{
     position: relative;
-    left: 540px;
+    left: 520px;
     top: 20px;
     display: block;
     height: 200px;
@@ -28,14 +28,42 @@
     border-right: 2px solid #000;
     width: 150px;
 }
+.two{
+    position: relative;
+    display: block;
+    left: 210px;
+    top: -317px;
+    border-top: 2px solid #000;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+}
 .ad1{
     position: relative;
     display: block;
-    height: 200px;
+    height: 270px;
     width: 150px;
-    top: -180px;
+    top: -400px;
     left: 50px;
     border-bottom: 2px solid #000;
+    border-right: 2px solid #000;
+    border-left: 2px solid #000;
+}
+.ad2{
+    position: relative;
+    display: block;
+    height: 200px;
+    width: 119px;
+    top: -601px;
+    left: 210px;
+    border-right: 2px solid #000;
+    border-left: 2px solid #000;
+    border-bottom: 2px solid #000;
+}
+.three{
+    position: relative;
+    top: -320px;
+    left: 210px;
+    width: 119px;
     border-right: 2px solid #000;
     border-left: 2px solid #000;
 }
