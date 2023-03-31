@@ -2,8 +2,8 @@
     position: relative;
     left: 300px;
     background: #d3c49b;
-    height: 900px;
-    width: 700px;
+    height: 870px;
+    width: 690px;
     border: 2px solid;
 }
 
@@ -45,6 +45,7 @@
     top: -662px;
     left: 30px;
     font-size: 12px;
+    text-align: center;
     border-bottom: 1px solid #000;
     border-right: 1px solid #000;
     border-left: 1px solid #000;
@@ -54,16 +55,36 @@
     display: block;
     height: 270px;
     width: 150px;
-    top: -932px;
-    left: 40px;
-
+    top: -1030px;
+    left: 35px;
+    text-align: center;
+}
+.ad12{
+    position: relative;
+    display: block;
+    height: 270px;
+    width: 150px;
+    top: -1280px;
+    left: 30px;
+    font-size: 12px;
+    text-align: center;
+}
+.ad13{
+    position: relative;
+    display: block;
+    height: 270px;
+    width: 150px;
+    top: -1505px;
+    left: 30px;
+    font-size: 12px;
+    text-align: center;
 }
 .ad2{
     position: relative;
     display: block;
     height: 200px;
     width: 119px;
-    top: -880px;
+    top: -872px;
     left: 190px;
     letter-spacing: 2px;
     font-size: 14px;
@@ -93,5 +114,61 @@
 }
 .four{
     position: relative;
-    top: -550px;
+    top: -580px;
+}
+.wanted{
+    position: relative;
+    bottom: 1870px;
+    display: block;
+    height: 380px;
+    width: 280px;
+    left: 28px;
+    font-size: 20px;
+    text-align: center;
+    word-spacing: 20px;
+    text-indent: 30px;
+    border-right: 1px solid #000;
+    border-left: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom:1px solid #000;
+}
+.op1{
+    position: relative;
+    top: -5px;
+}
+.op2{
+    position: relative;
+    top: 130px;
+}
+.textop2{
+    position: relative;
+    height: 40px;
+    width: 100px;
+    top: -2180px;
+    left: 50px;
+    text-align: left;
+    font-size: 9px;
+}
+.textop22{
+    position: relative;
+    height: 40px;
+    width: 110px;
+    top: -2230px;
+    left: 190px;
+    text-align: right;
+    font-size: 9px;
+}
+.sam{
+    position: absolute;
+    height: 80px;
+    width: 70px;
+    top: -1660px;
+    left: 135px;
+    font-size: 17px;
+    letter-spacing: normal;
+    text-align: center;
+    border-right: 1px solid #000;
+    border-left: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom:1px solid #000;
 }
