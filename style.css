@@ -160,6 +160,7 @@
 }
 .sam{
     position: absolute;
+    display: block;
     height: 80px;
     width: 70px;
     top: -1660px;
